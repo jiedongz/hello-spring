@@ -1,6 +1,7 @@
 package dev.jack;
 
 /* how to create Spring application without boot */
+/* push to gitHub */
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
